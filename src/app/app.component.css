@@ -1,0 +1,20 @@
+.navbar-custom{
+    border-radius: 50px;
+    background-color: #FAFAFA;
+    border-color: #98FB98;
+
+}
+
+.navbar-brand {
+    text-transform: uppercase; /* Convert text to uppercase */
+    letter-spacing: 2px; /* Increase spacing between letters */
+    color: #2C2C2C; /* Set text color to white (adjust as needed) */
+    /* text-shadow: 2px 2px 4px #98FB98; Add text shadow for better readability */
+    transition: all 0.5s; /* Add transition for hover effects */
+  }
+  
+  .navbar-brand:hover {
+    color: #98FB98; /* Change text color on hover */
+    text-shadow: 2px 2px 8px #2C2C2C; /* Increase text shadow on hover */
+  }
+  
